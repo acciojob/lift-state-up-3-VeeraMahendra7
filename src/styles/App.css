@@ -1,1 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 
+.parent {
+    background-color: greenyellow;
+    padding: 20px;
+}
+
+.heading {
+    margin-bottom: 20px;
+}
+
+.child-1 {
+    background-color: brown;
+    padding: 20px 5px;
+}
+
+.child-2 {
+    background-color: gold;
+    padding: 20px 5px;
+}
+
+.para{
+    margin-top: 10px;
+}
+
+.btn {
+    padding: 8px;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid rgba(0,0,0,.2);
+}
